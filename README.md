@@ -1,34 +1,36 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<https://github.com/user-attachments/assets/345d15b1-91bf-434f-8653-514deecf4d40)](https://i.ytimg.com/vi/M66J7oRU400/maxresdefault.jpg>
+
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Cisco Packet Tracer - Connecting Devices</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Introduction</h2>
 
-- Windows 10</b> (21H2)
+- Objective: Demonstrate the ability to connect various network devices (PCs, servers, switches, and routers) using appropriate cabling techniques.
 
-<h2>List of Prerequisites</h2>
+- Tools Used: Cisco Packet Tracer
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Skills Highlighted: Network configuration, understanding of cabling types, practical application of networking concepts.
 
-<h2>Installation Steps</h2>
+
+<h2>Lab Setup: </h2>
+
+- Network devices: PCs, servers, switches, and routers.
+
+- Cable types: Copper straight-through, copper cross-over, and fiber-optic cables.</b> (21H2)
+
+<h2> Additional Parameters </h2>
+
+- Auto MDI-X will not be enabled on the switches in this excercise.
+
+<h2>Step-by-step Implementation</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
