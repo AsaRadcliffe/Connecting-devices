@@ -4,7 +4,7 @@
 </p>
 
 <h1>Cisco Packet Tracer - Connecting Devices</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<br />
 
 
 
