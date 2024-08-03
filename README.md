@@ -32,12 +32,12 @@
 
 <h2>Step-by-step Implementation</h2>
 
-<p>
-<img src="https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b.png" height="80%" width="80%" alt="Packet Tracer Virtual Environment"/>
 
-</p>
+![image](https://github.com/user-attachments/assets/d8a668b5-b095-4384-8997-95a7072ad1bf)
+
+
 <p>
-In this simple excercise we will be using Cisco Packet Tracer to demonstrate how to connect the nodes on a network using the proper cables.
+In this simple excercise we will be using Cisco Packet Tracer to demonstrate how to connect the nodes on a network using the proper cables. As stated above, our primary objective will be to connect all of the nodes on each network, and then connect the two networks.
 </p>
 <br />
 
