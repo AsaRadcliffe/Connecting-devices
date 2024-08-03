@@ -33,7 +33,7 @@
 <h2>Step-by-step Implementation</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b)
+(https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b)
 
 </p>
 <p>
