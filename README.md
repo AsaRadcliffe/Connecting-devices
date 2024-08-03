@@ -33,8 +33,7 @@
 <h2>Step-by-step Implementation</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/4969fa14-0d9c-49f5-a458-904cd2651e5e)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://github.com/user-attachments/assets/938b16dc-e816-4dcb-b986-9ce9d394638d)" height="80%" width="80%" alt="Packet Tracer Environment"/>
 </p>
 <p>
 In this simple excercise we will be using Cisco Packet Tracer to demonstrate how to connect the nodes on a network using the proper cables.
