@@ -33,7 +33,7 @@
 <h2>Step-by-step Implementation</h2>
 
 <p>
-(https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b)
+<img src="https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b.png" height="80%" width="80%" alt="Packet Tracer Virtual Environment"/>
 
 </p>
 <p>
