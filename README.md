@@ -33,7 +33,8 @@
 <h2>Step-by-step Implementation</h2>
 
 <p>
-<img src="(https://github.com/user-attachments/assets/938b16dc-e816-4dcb-b986-9ce9d394638d)" height="80%" width="80%" alt="Packet Tracer Environment"/>
+![image](https://github.com/user-attachments/assets/cfca5b23-fbfe-4901-8b4f-eb4b4bb6b82b)
+
 </p>
 <p>
 In this simple excercise we will be using Cisco Packet Tracer to demonstrate how to connect the nodes on a network using the proper cables.
