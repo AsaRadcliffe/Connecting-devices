@@ -8,7 +8,7 @@
 <br />
 
 <p align = "center">
-<img src = "https://github.com/user-attachments/assets/4da32f27-7542-4138-8ea3-85d8c4feac72">
+<img src = "https://github.com/user-attachments/assets/d0756242-dc93-4961-b67d-266fd22489a4">
 
 </p>
 
