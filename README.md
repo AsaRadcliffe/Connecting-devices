@@ -6,10 +6,10 @@
 <h1>Cisco Packet Tracer - Connecting Devices</h1>
 <br />
 
+<p align = "center">
+<img src = "https://github.com/user-attachments/assets/4da32f27-7542-4138-8ea3-85d8c4feac72">
 
-![image](https://github.com/user-attachments/assets/4da32f27-7542-4138-8ea3-85d8c4feac72)
-
-
+</p>
 
 <h2>Introduction</h2>
 
