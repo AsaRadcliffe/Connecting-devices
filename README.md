@@ -65,7 +65,7 @@ Next, we'll be using crossover cables to connect our switches to each other. Swi
 ![image](https://github.com/user-attachments/assets/78b2f233-eb26-4b65-b797-f8723ea2c3c0)
 
 <p>
-Now that we've connected our switches to each other, we'll conncect our routers to said switches using straight-through cables since routers and switches transmit and recieve data using different pins, and don't need the help of crossover cables to communicate. Similarly to our switches, we'll want to make sure we have redundant connections to our routers so that there are as few single points of failure as possible.
+Now that we have connected our switches to each other, we will conncect our routers to said switches using straight-through cables since routers and switches transmit and recieve data using different pins, and don't need the help of crossover cables to communicate. Similarly to our switches, we'll want to make sure we have redundant connections to our routers so that there are as few single points of failure as possible.
 </p>
 <br />
 
@@ -76,19 +76,19 @@ Now that we've connected our switches to each other, we'll conncect our routers 
 
 ![image](https://github.com/user-attachments/assets/3a597ebc-cd9c-417a-a228-46423b29141a)
 
-<p>The penultimate connection of our excercise will be between routers 2 and 3. This time the distance between them is 3 kilometers, which is too great a distance for even a multimode fiber optic cable so we will facilitate this connection with a single mode fiber optic cable. </p>
+<p>The penultimate connection of our excercise will be between routers 2 and 3. This time the distance between them is 3 kilometers, which is too great a distance for even a multimode fiber optic cable, so we will facilitate this connection with a single mode fiber optic cable. </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/c4507b1e-d150-4d7b-a58c-9226d873541e)
 
-<p> Now that we've connected all other nodes on our networks, we'll conclude our excercise by connecting routers 3 and 4. The distance between them is 250 meters, which is too great a distance to connect them with a UTP cable, but within the range of multimode fiber optics. Depending on the resources of the company it may either be more appropriate to use either single-mode fiber optics to maximize the the connection speed of the connection, or multimode fiber optics to minimize the cost of installation. </p>
+<p> Now that we have connected all other nodes on our networks, we will conclude our excercise by connecting routers 3 and 4. The distance between them is 250 meters, which is too great a distance to connect them with a UTP cable, but within the range of multimode fiber optics. Depending on the resources of the company it may either be more appropriate to use either single-mode fiber optics to maximize the the connection speed of the connection, or multimode fiber optics to minimize the cost of installation. </p>
 <br />
 
 <h2> Conclusion </h2>
 
 <p>In this lab, we demonstrated the practical application of connecting various network devices using Cisco Packet Tracer. We covered the essential techniques for cabling and configuring PCs, servers, switches, and routers, emphasizing the correct use of copper straight-through, copper crossover, and fiber-optic cables.</p>
 
-<h3>Key Takeaways:</h3>
+<h3>Key Takeaways</h3>
 
 <h4>End Hosts to Switches:</h4>
 -We used straight-through cables to connect PCs and servers to switches. This is because end hosts transmit data on Ethernet pins 1 and 2, while switches receive data on these pins, ensuring proper communication.
