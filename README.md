@@ -2,8 +2,9 @@
 <https://github.com/user-attachments/assets/345d15b1-91bf-434f-8653-514deecf4d40)](https://i.ytimg.com/vi/M66J7oRU400/maxresdefault.jpg>
 
 </p>
-
+<p align = "center">
 <h1>Cisco Packet Tracer - Connecting Devices</h1>
+</p>
 <br />
 
 <p align = "center">
